@@ -1,0 +1,17 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "course",
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Andrés Caro <julicaro2003@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
